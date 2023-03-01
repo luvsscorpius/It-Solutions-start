@@ -1,0 +1,1 @@
+Esse projeto é sobre uma landing page mobile friendly.
